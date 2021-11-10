@@ -1,5 +1,6 @@
 # Bike Sharing Project
 Bike Sharing Project
+Public Tableau link: [link to dashboard](https://public.tableau.com/app/profile/carlos.rello/viz/citibikechallenge_16365105463850/Story1?publish=yes)
 Graphs
 ## Peak Hours
 ![Alt Text](https://github.com/CarlosRello/bikesharing/blob/main/images/hours.png)
